@@ -5,10 +5,9 @@ Create the UI by using ConstraintLayout.
 
 # Output:
 Light theme:
-<img src="https://github.com/mehabhatt/MAD_Practical_3_21012011049/assets/98047777/cd7b691c-68e5-47ad-b34a-5f44d22e9d20" width="500" height="500"> 
-![image](https://github.com/mehabhatt/MAD_Practical_3_21012011049/assets/98047777/cd7b691c-68e5-47ad-b34a-5f44d22e9d20)
+
+<img src="https://github.com/mehabhatt/MAD_Practical_3_21012011049/assets/98047777/cd7b691c-68e5-47ad-b34a-5f44d22e9d20" width="300" height="500"> 
 
 Dark theme:
 
-![image](https://github.com/mehabhatt/MAD_Practical_3_21012011049/assets/98047777/ba29ce6c-9ea8-4536-9c2a-71cdc43b1b95)
-
+<img src="https://github.com/mehabhatt/MAD_Practical_3_21012011049/assets/98047777/ba29ce6c-9ea8-4536-9c2a-71cdc43b1b95" width="300" height="500"> 
